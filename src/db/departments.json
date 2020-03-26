@@ -1,0 +1,70 @@
+{
+    "departments": [
+        {
+            "id": 1,
+            "name": "HR",
+            "root": null,
+            "rootLevel": 0
+        },
+        {
+            "id": 2,
+            "name": "DK",
+            "root": 1,
+            "rootLevel": 1
+        },
+        {
+            "id": 3,
+            "name": "LOG",
+            "root": null,
+            "rootLevel": 0
+        },
+        {
+            "id": 4,
+            "name": "KK",
+            "root": null,
+            "rootLevel": 0
+        },
+        {
+            "id": 5,
+            "name": "BHP",
+            "root": null,
+            "rootLevel": 0
+        },
+        {
+            "id": 6,
+            "name": "PP",
+            "root": null,
+            "rootLevel": 0
+        },
+        {
+            "id": 7,
+            "name": "H1",
+            "root": 6,
+            "rootLevel": 1
+        },
+        {
+            "id": 8,
+            "name": "H2",
+            "root": 6,
+            "rootLevel": 1
+        },
+        {
+            "id": 9,
+            "name": "M1",
+            "root": 7,
+            "rootLevel": 2
+        },
+        {
+            "id": 10,
+            "name": "M2",
+            "root": 8,
+            "rootLevel": 2
+        },
+        {
+            "id": 11,
+            "name": "M3",
+            "root": 8,
+            "rootLevel": 2
+        }
+    ]
+}

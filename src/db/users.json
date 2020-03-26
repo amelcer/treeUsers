@@ -1,0 +1,592 @@
+{
+    "users": [
+        {
+            "id": "5e7752ef8d58d2d60d77cfe6",
+            "name": "Nellie Summers",
+            "email": "nelliesummers@comvey.com",
+            "phone": "(851) 571-2099",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2005-3-20",
+                "end": "2001-10-5"
+            },
+            "department": 1
+        },
+        {
+            "id": "5e7752efa61bb86195854921",
+            "name": "Boyle Ray",
+            "email": "boyleray@comvey.com",
+            "phone": "(894) 583-3875",
+            "office": "starszy specjalista",
+            "contractDate": {
+                "start": "2008-12-5",
+                "end": "2001-7-22"
+            },
+            "department": 10
+        },
+        {
+            "id": "5e7752ef9e81fafd1b71a1af",
+            "name": "Amy Pruitt",
+            "email": "amypruitt@comvey.com",
+            "phone": "(966) 431-2363",
+            "office": "starszy specjalista",
+            "contractDate": {
+                "start": "2005-11-15",
+                "end": "2017-3-18"
+            },
+            "department": 6
+        },
+        {
+            "id": "5e7752ef36cd70cee186ab07",
+            "name": "Bolton Calhoun",
+            "email": "boltoncalhoun@comvey.com",
+            "phone": "(988) 597-2172",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2008-3-10",
+                "end": "2019-5-20"
+            },
+            "department": 4
+        },
+        {
+            "id": "5e7752ef235d69ac90873fff",
+            "name": "Acevedo Murphy",
+            "email": "acevedomurphy@comvey.com",
+            "phone": "(969) 489-3256",
+            "office": "asystent",
+            "contractDate": {
+                "start": "2010-5-26",
+                "end": "2018-4-29"
+            },
+            "department": 4
+        },
+        {
+            "id": "5e7752ef9b21bdcebb076905",
+            "name": "Elva Gamble",
+            "email": "elvagamble@comvey.com",
+            "phone": "(992) 438-2531",
+            "office": "asystent",
+            "contractDate": {
+                "start": "2014-11-25",
+                "end": "2018-8-7"
+            },
+            "department": 3
+        },
+        {
+            "id": "5e7752efbaf6338265aa3a6c",
+            "name": "Maritza Graham",
+            "email": "maritzagraham@comvey.com",
+            "phone": "(916) 482-3672",
+            "office": "asystent",
+            "contractDate": {
+                "start": "2004-1-6",
+                "end": "2006-4-20"
+            },
+            "department": 7
+        },
+        {
+            "id": "5e7752ef750ae3aeac0deecb",
+            "name": "Gates Duncan",
+            "email": "gatesduncan@comvey.com",
+            "phone": "(950) 517-3498",
+            "office": "starszy specjalista",
+            "contractDate": {
+                "start": "2004-1-13",
+                "end": "2006-8-19"
+            },
+            "department": 2
+        },
+        {
+            "id": "5e7752efb7a433f94ac7389a",
+            "name": "Tameka Watson",
+            "email": "tamekawatson@comvey.com",
+            "phone": "(985) 479-2123",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2003-3-19",
+                "end": "2003-10-23"
+            },
+            "department": 8
+        },
+        {
+            "id": "5e7752ef4859facbc1c5c8ac",
+            "name": "Webster Wyatt",
+            "email": "websterwyatt@comvey.com",
+            "phone": "(825) 400-3886",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2016-4-12",
+                "end": "2004-6-3"
+            },
+            "department": 6
+        },
+        {
+            "id": "5e7752ef771e08c88f4437b1",
+            "name": "Berg Gentry",
+            "email": "berggentry@comvey.com",
+            "phone": "(819) 436-2745",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2001-2-18",
+                "end": "2017-7-16"
+            },
+            "department": 5
+        },
+        {
+            "id": "5e7752ef454cdc8655141550",
+            "name": "Trisha Lucas",
+            "email": "trishalucas@comvey.com",
+            "phone": "(833) 415-3145",
+            "office": "asystent",
+            "contractDate": {
+                "start": "2016-8-3",
+                "end": "2003-5-29"
+            },
+            "department": 4
+        },
+        {
+            "id": "5e7752ef2b8ddc235e6674f0",
+            "name": "Briggs Wilkinson",
+            "email": "briggswilkinson@comvey.com",
+            "phone": "(840) 496-2504",
+            "office": "asystent",
+            "contractDate": {
+                "start": "2016-8-15",
+                "end": "2004-4-27"
+            },
+            "department": 6
+        },
+        {
+            "id": "5e7752efb308a56ba0c287f2",
+            "name": "Sherrie Conner",
+            "email": "sherrieconner@comvey.com",
+            "phone": "(829) 408-3804",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2019-10-2",
+                "end": "2001-4-23"
+            },
+            "department": 8
+        },
+        {
+            "id": "5e7752ef30f34fe0002bc18e",
+            "name": "Etta Wiggins",
+            "email": "ettawiggins@comvey.com",
+            "phone": "(994) 417-2007",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2001-11-7",
+                "end": "2004-5-13"
+            },
+            "department": 10
+        },
+        {
+            "id": "5e7752efdc4131e44922667e",
+            "name": "Nielsen Rivas",
+            "email": "nielsenrivas@comvey.com",
+            "phone": "(859) 486-3350",
+            "office": "starszy specjalista",
+            "contractDate": {
+                "start": "2002-7-28",
+                "end": "2015-11-2"
+            },
+            "department": 6
+        },
+        {
+            "id": "5e7752ef2b3c19479475e754",
+            "name": "Reva Burns",
+            "email": "revaburns@comvey.com",
+            "phone": "(986) 509-3805",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2004-7-10",
+                "end": "2018-6-26"
+            },
+            "department": 7
+        },
+        {
+            "id": "5e7752efc4c4892f446e9e32",
+            "name": "Ortiz Sweet",
+            "email": "ortizsweet@comvey.com",
+            "phone": "(988) 582-3671",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2019-2-25",
+                "end": "2007-10-23"
+            },
+            "department": 3
+        },
+        {
+            "id": "5e7752ef06650245a2b9aafb",
+            "name": "Bettie Wright",
+            "email": "bettiewright@comvey.com",
+            "phone": "(843) 566-2627",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2011-7-5",
+                "end": "2008-9-7"
+            },
+            "department": 7
+        },
+        {
+            "id": "5e7752efc7570496854bd6e6",
+            "name": "Rebekah Glover",
+            "email": "rebekahglover@comvey.com",
+            "phone": "(981) 426-2476",
+            "office": "asystent",
+            "contractDate": {
+                "start": "2006-1-3",
+                "end": "2009-2-12"
+            },
+            "department": 10
+        },
+        {
+            "id": "5e7752ef5dad379821660961",
+            "name": "Mamie Beard",
+            "email": "mamiebeard@comvey.com",
+            "phone": "(856) 435-2315",
+            "office": "asystent",
+            "contractDate": {
+                "start": "2010-1-13",
+                "end": "2001-6-20"
+            },
+            "department": 6
+        },
+        {
+            "id": "5e7752efe9950cdc7663ad97",
+            "name": "Susie George",
+            "email": "susiegeorge@comvey.com",
+            "phone": "(830) 561-2290",
+            "office": "asystent",
+            "contractDate": {
+                "start": "2003-12-18",
+                "end": "2011-1-9"
+            },
+            "department": 4
+        },
+        {
+            "id": "5e7752ef94fcea61665d2b06",
+            "name": "Mack Morrison",
+            "email": "mackmorrison@comvey.com",
+            "phone": "(968) 407-2823",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2014-4-22",
+                "end": "2011-5-23"
+            },
+            "department": 3
+        },
+        {
+            "id": "5e7752ef425c961eb91870bd",
+            "name": "Carla Cross",
+            "email": "carlacross@comvey.com",
+            "phone": "(932) 475-2185",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2011-2-25",
+                "end": "2018-12-6"
+            },
+            "department": 8
+        },
+        {
+            "id": "5e7752efdbfefd3c7d51afde",
+            "name": "Howe Herrera",
+            "email": "howeherrera@comvey.com",
+            "phone": "(967) 530-2370",
+            "office": "asystent",
+            "contractDate": {
+                "start": "2017-6-29",
+                "end": "2012-1-26"
+            },
+            "department": 8
+        },
+        {
+            "id": "5e7752efecb5397864bb77f4",
+            "name": "Manuela Avila",
+            "email": "manuelaavila@comvey.com",
+            "phone": "(911) 495-3442",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2006-5-28",
+                "end": "2006-1-4"
+            },
+            "department": 10
+        },
+        {
+            "id": "5e7752efee0d788e62e8350c",
+            "name": "Chambers Baldwin",
+            "email": "chambersbaldwin@comvey.com",
+            "phone": "(898) 528-3654",
+            "office": "starszy specjalista",
+            "contractDate": {
+                "start": "2007-3-16",
+                "end": "2005-2-5"
+            },
+            "department": 4
+        },
+        {
+            "id": "5e7752efbac4541cd13a8a0f",
+            "name": "Karina Irwin",
+            "email": "karinairwin@comvey.com",
+            "phone": "(980) 490-3921",
+            "office": "starszy specjalista",
+            "contractDate": {
+                "start": "2001-5-20",
+                "end": "2005-3-23"
+            },
+            "department": 9
+        },
+        {
+            "id": "5e7752efd327c6caa76932b6",
+            "name": "Fuentes Dean",
+            "email": "fuentesdean@comvey.com",
+            "phone": "(823) 557-3673",
+            "office": "asystent",
+            "contractDate": {
+                "start": "2002-2-22",
+                "end": "2019-11-6"
+            },
+            "department": 4
+        },
+        {
+            "id": "5e7752ef9160948737339a32",
+            "name": "Francis Blevins",
+            "email": "francisblevins@comvey.com",
+            "phone": "(911) 413-3090",
+            "office": "starszy specjalista",
+            "contractDate": {
+                "start": "2009-12-20",
+                "end": "2002-1-5"
+            },
+            "department": 5
+        },
+        {
+            "id": "5e7752efab6db0bb9d98e8f8",
+            "name": "Farrell Barrett",
+            "email": "farrellbarrett@comvey.com",
+            "phone": "(800) 410-2117",
+            "office": "asystent",
+            "contractDate": {
+                "start": "2008-7-24",
+                "end": "2003-6-18"
+            },
+            "department": 9
+        },
+        {
+            "id": "5e7752ef991ccf65e69c6f33",
+            "name": "Kelly Hyde",
+            "email": "kellyhyde@comvey.com",
+            "phone": "(925) 549-3528",
+            "office": "asystent",
+            "contractDate": {
+                "start": "2013-11-1",
+                "end": "2002-1-2"
+            },
+            "department": 6
+        },
+        {
+            "id": "5e7752ef8bee127870f9d914",
+            "name": "Fulton Gordon",
+            "email": "fultongordon@comvey.com",
+            "phone": "(810) 403-3061",
+            "office": "starszy specjalista",
+            "contractDate": {
+                "start": "2005-4-24",
+                "end": "2018-8-14"
+            },
+            "department": 1
+        },
+        {
+            "id": "5e7752efe2eef15d8fb03a05",
+            "name": "Delores Patel",
+            "email": "delorespatel@comvey.com",
+            "phone": "(873) 566-3986",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2009-10-9",
+                "end": "2010-10-12"
+            },
+            "department": 9
+        },
+        {
+            "id": "5e7752ef58d461bf6ad34bb7",
+            "name": "Winnie Noble",
+            "email": "winnienoble@comvey.com",
+            "phone": "(920) 420-2135",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2008-1-21",
+                "end": "2014-2-25"
+            },
+            "department": 10
+        },
+        {
+            "id": "5e7752efcfc0dde3ad704d64",
+            "name": "Jeannie Mullins",
+            "email": "jeanniemullins@comvey.com",
+            "phone": "(900) 597-2884",
+            "office": "starszy specjalista",
+            "contractDate": {
+                "start": "2008-3-3",
+                "end": "2017-5-3"
+            },
+            "department": 2
+        },
+        {
+            "id": "5e7752ef3ccd576609267e92",
+            "name": "Jeanne Heath",
+            "email": "jeanneheath@comvey.com",
+            "phone": "(820) 545-2793",
+            "office": "starszy specjalista",
+            "contractDate": {
+                "start": "2010-12-8",
+                "end": "2008-12-13"
+            },
+            "department": 5
+        },
+        {
+            "id": "5e7752efde2ddb5258228451",
+            "name": "Burns Hines",
+            "email": "burnshines@comvey.com",
+            "phone": "(800) 456-3283",
+            "office": "asystent",
+            "contractDate": {
+                "start": "2008-2-19",
+                "end": "2012-7-21"
+            },
+            "department": 9
+        },
+        {
+            "id": "5e7752ef36be0e9ef658c750",
+            "name": "Terry Merrill",
+            "email": "terrymerrill@comvey.com",
+            "phone": "(858) 512-2419",
+            "office": "kierownik",
+            "contractDate": {
+                "start": "2002-12-18",
+                "end": "2016-1-26"
+            },
+            "department": 11
+        },
+        {
+            "id": "5e77538ccafeefa1c8298cd2",
+            "name": "Guerrero Kane",
+            "email": "guerrerokane@comvey.com",
+            "phone": "(857) 485-3211",
+            "office": "asystent",
+            "contractDate": {
+              "start": "2007-11-15",
+              "end": "2001-3-29"
+            },
+            "department": 7
+          },
+          {
+            "id": "5e77538c08844f8a5f0bd21c",
+            "name": "Debora Oneill",
+            "email": "deboraoneill@comvey.com",
+            "phone": "(911) 491-2105",
+            "office": "kierownik",
+            "contractDate": {
+              "start": "2016-7-13",
+              "end": "2015-9-27"
+            },
+            "department": 8
+          },
+          {
+            "id": "5e77538c1a0b9d9afe65f155",
+            "name": "Fields Huber",
+            "email": "fieldshuber@comvey.com",
+            "phone": "(835) 418-2990",
+            "office": "asystent",
+            "contractDate": {
+              "start": "2012-11-23",
+              "end": "2018-5-2"
+            },
+            "department": 3
+          },
+          {
+            "id": "5e77538c170bf1f1c9ff4799",
+            "name": "Vincent Santana",
+            "email": "vincentsantana@comvey.com",
+            "phone": "(963) 426-3279",
+            "office": "kierownik",
+            "contractDate": {
+              "start": "2004-7-23",
+              "end": "2008-7-30"
+            },
+            "department": 7
+          },
+          {
+            "id": "5e77538c510edad2efa120fa",
+            "name": "Snyder Velasquez",
+            "email": "snydervelasquez@comvey.com",
+            "phone": "(859) 512-3000",
+            "office": "starszy specjalista",
+            "contractDate": {
+              "start": "2013-9-16",
+              "end": "2004-12-9"
+            },
+            "department": 3
+          },
+          {
+            "id": "5e77538cfebdc849208947a5",
+            "name": "Wall Odom",
+            "email": "wallodom@comvey.com",
+            "phone": "(939) 401-3815",
+            "office": "starszy specjalista",
+            "contractDate": {
+              "start": "2007-7-15",
+              "end": "2012-5-4"
+            },
+            "department": 11
+          },
+          {
+            "id": "5e77538caf2e1993f23877a5",
+            "name": "Schwartz Perkins",
+            "email": "schwartzperkins@comvey.com",
+            "phone": "(978) 438-3117",
+            "office": "starszy specjalista",
+            "contractDate": {
+              "start": "2012-9-25",
+              "end": "2019-5-14"
+            },
+            "department": 6
+          },
+          {
+            "id": "5e77538cba7228c55dc07631",
+            "name": "Jarvis Guthrie",
+            "email": "jarvisguthrie@comvey.com",
+            "phone": "(916) 481-2552",
+            "office": "asystent",
+            "contractDate": {
+              "start": "2011-3-2",
+              "end": "2010-10-30"
+            },
+            "department": 7
+          },
+          {
+            "id": "5e77538c6380bb4e69eb0a32",
+            "name": "Elnora Horn",
+            "email": "elnorahorn@comvey.com",
+            "phone": "(945) 515-3593",
+            "office": "starszy specjalista",
+            "contractDate": {
+              "start": "2015-9-19",
+              "end": "2013-12-8"
+            },
+            "department": 4
+          },
+          {
+            "id": "5e77538c8dab5ddead456e3c",
+            "name": "Jefferson Joyner",
+            "email": "jeffersonjoyner@comvey.com",
+            "phone": "(935) 513-2000",
+            "office": "asystent",
+            "contractDate": {
+              "start": "2013-11-9",
+              "end": "2006-9-8"
+            },
+            "department": 11
+          }
+    ]
+}

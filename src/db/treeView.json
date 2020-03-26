@@ -1,0 +1,63 @@
+{
+    "tree": [
+        {
+            "id": 1,
+            "name": "HR",
+            "children": [
+                {
+                    "id": 2,
+                    "name": "DK",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "LOG",
+            "children": []
+        },
+        {
+            "id": 4,
+            "name": "KK",
+            "children": []
+        },
+        {
+            "id": 5,
+            "name": "BHP",
+            "children": []
+        },
+        {
+            "id": 6,
+            "name": "PP",
+            "children": [
+                {
+                    "id": 7,
+                    "name": "H1",
+                    "children": [
+                        {
+                            "id": 9,
+                            "name": "M1",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "H2",
+                    "children": [
+                        {
+                            "id": 10,
+                            "name": "M2",
+                            "children": []
+                        },
+                        {
+                            "id": 11,
+                            "name": "M3",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
