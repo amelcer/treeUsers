@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { TreeItem as MUITreeItem } from "@material-ui/lab";
+import { Typography } from "@material-ui/core";
 import { getUsersFromDepartment, getUsersLength } from "./db/api";
 import { InfiniteLoader, List } from "react-virtualized";
 import styled from "styled-components";
@@ -8,6 +9,23 @@ import User from "./User";
 const StyledTreeItem = styled(MUITreeItem)`
     padding: 20px;
     border-bottom: 3px solid #0059ff;
+`;
+
+const StyledLabel = styled.div`
+    width: 100%;
+    height: 100%;
+    display: flex;
+`;
+
+const Name = styled.div`
+    width: 50%;
+    justify-content: flex-start;
+`;
+
+const Number = styled.div`
+    width: 50%;
+    justify-content: flex-end;
+    text-align: right;
 `;
 
 const Container = styled.div`
@@ -86,11 +104,31 @@ const TreeItem = props => {
         );
     };
 
+    const Label = props => {
+        const { name, loadedUsers, allUsers } = props;
+        return (
+            <StyledLabel>
+                <Name>
+                    <Typography> {name} </Typography>{" "}
+                </Name>
+                {(loadedUsers && (
+                    <Number>
+                        <Typography> {`${loadedUsers + 1}/${allUsers}`} </Typography>{" "}
+                    </Number>
+                )) || (
+                    <Number>
+                        <Typography> {`${loadedUsers}/${0}`}</Typography>{" "}
+                    </Number>
+                )}
+            </StyledLabel>
+        );
+    };
+
     return (
         <StyledTreeItem
             key={`${department.name}-${department.id}`}
             nodeId={`${department.name}-${department.id}`}
-            label={department.name}
+            label={<Label name={department.name} loadedUsers={users.length} allUsers={remoteRowCount} />}
             onClick={handleOpened}
         >
             <>
