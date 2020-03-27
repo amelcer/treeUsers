@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const Container = styled.div`
     width: 100%;
-    height: 30px;
+    height: 100%;
     display: flex;
     flex-direction: row;
     align-items: stretch;
@@ -23,17 +23,17 @@ const Cell = styled.div`
 `;
 
 const User = props => {
-    const { user } = props;
+    const { user, style } = props;
     return (
-        <Container>
+        <div style={style}>
             {user && (
-                <>
+                <Container>
                     <Cell> {user.name} </Cell>
                     <Cell> {user.phone} </Cell>
                     <Cell> {user.office} </Cell>
-                </>
+                </Container>
             )}
-        </Container>
+        </div>
     );
 };
 
